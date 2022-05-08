@@ -1,0 +1,8 @@
+{
+  "filename": "ToggleVelocityMatching.dll",
+  "author": "Vesper",
+  "name": "Toggle Velocity Matching",
+  "uniqueName": "Vesper.ToggleVelocityMatching",
+  "version": "1.0.0",
+  "owmlVersion": "2.3.3"
+}
