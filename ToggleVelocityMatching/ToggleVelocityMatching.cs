@@ -48,13 +48,5 @@ namespace ModTemplate
             instance.ModHelper.Console.WriteLine("No longer matching velocity");
             return true;
         }
-        public static bool MatchedVelocityEventPatch()
-        {
-            if (instance.matchingVelocity == true)
-            {
-                return false;
-            }
-            return true;
-        }
     }
 }
